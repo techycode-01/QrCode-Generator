@@ -16,4 +16,4 @@ This is a simple QR code generator web application built using HTML, CSS, and Ja
 
 ## Demo
 
-You can try the live demo of the QR code generator [here]("qrc-code-generator.netlify.app").
+You can try the live demo of the QR code generator here [<a href="https://buy-busy.netlify.app/">] .
